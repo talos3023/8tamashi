@@ -2,10 +2,11 @@ package com.tsu.inteleqtualuri;
 
 public class Main {
     public static void main(String[] args) {
+        //this should be added
         int[] puzzle = {
                 8, 6, 7,
                 2, 5, 4,
-                3, 0, 1,
+                3, 0, 1,s
         };
         int[] goal = {
                 1, 2, 3,
